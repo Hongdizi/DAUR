@@ -24,7 +24,8 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 - 原文
     - 如果是 Mac 系统，可使用 [Sublime](https://www.sublimetext.com/) 软件或其他开源的文本编辑器打开。
 - 修改为（比原文少了两个汉字）
-    - 若~~如果~~是 Mac 系统，可使用 [Sublime](https://www.sublimetext.com/) 软件或其他~~的~~开源文本编辑器打开。
+
+- 若~~如果~~是 Mac 系统，可使用 [Sublime](https://www.sublimetext.com/) 软件或其他~~的~~开源文本编辑器打开。
 
 
 ## 撰写语法
@@ -71,7 +72,7 @@ This repo was built for my ongoing project of publishing an introductory Chinese
 分工：
 
 - 姜鹤、黄明珠：分层线性模型
-
+- 鸿迪孜，王磊：调节与中介
 
 吕小康
 
